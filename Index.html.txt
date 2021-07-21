@@ -1,2 +1,3 @@
 <DOCTYPE! html>
-<h1>Natalie</h1>
+<head>
+<title>Natalie</title>
