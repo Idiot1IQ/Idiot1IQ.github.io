@@ -1,5 +1,7 @@
 <DOCTYPE! html>
   <html>
-    <head>Natalie</head>
+    <head>
+    <title>Natalie</title>
+    </head>
     <body>Hi</body>
 </html>
